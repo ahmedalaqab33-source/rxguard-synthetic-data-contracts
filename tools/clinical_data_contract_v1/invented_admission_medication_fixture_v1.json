@@ -1,0 +1,300 @@
+{
+  "scope": "SYNTHETIC",
+  "invented": true,
+  "contract_version": "synthetic-admission-medication-coverage-0.1.0",
+  "snapshot_time": "2100-01-01 12:00:00",
+  "admissions": [
+    {
+      "scope": "SYNTHETIC",
+      "subject_id": 7001,
+      "hadm_id": 8101,
+      "index_time": "2100-01-01 12:00:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "subject_id": 7001,
+      "hadm_id": 8102,
+      "index_time": "2100-01-01 12:00:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "subject_id": 7002,
+      "hadm_id": 8201,
+      "index_time": "2100-01-01 12:00:00"
+    }
+  ],
+  "orders": [
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-ORDER-P01",
+      "source": "PRESCRIPTION",
+      "subject_id": 7001,
+      "hadm_id": 8101,
+      "pharmacy_id": "RX-A",
+      "event_time": "2100-01-01 10:00:00",
+      "available_time": "2100-01-01 10:10:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-ORDER-P02",
+      "source": "PRESCRIPTION",
+      "subject_id": 7001,
+      "hadm_id": 8101,
+      "pharmacy_id": "RX-B",
+      "event_time": "2100-01-01 13:00:00",
+      "available_time": "2100-01-01 10:10:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-ORDER-P03",
+      "source": "PRESCRIPTION",
+      "subject_id": 7001,
+      "hadm_id": 8101,
+      "pharmacy_id": "RX-C",
+      "event_time": "2100-01-01 11:00:00",
+      "available_time": "2100-01-01 13:00:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-ORDER-P04",
+      "source": "PRESCRIPTION",
+      "subject_id": 7001,
+      "hadm_id": 8102,
+      "pharmacy_id": "RX-D",
+      "event_time": "2100-01-01 11:00:00",
+      "available_time": "2100-01-01 11:10:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-ORDER-P05",
+      "source": "PRESCRIPTION",
+      "subject_id": 7002,
+      "hadm_id": 8201,
+      "pharmacy_id": "RX-E",
+      "event_time": null,
+      "available_time": "2100-01-01 11:00:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-ORDER-P06",
+      "source": "PRESCRIPTION",
+      "subject_id": 7999,
+      "hadm_id": 8999,
+      "pharmacy_id": "RX-F",
+      "event_time": "2100-01-01 11:00:00",
+      "available_time": "2100-01-01 11:10:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-ORDER-P07",
+      "source": "PRESCRIPTION",
+      "subject_id": null,
+      "hadm_id": 8101,
+      "pharmacy_id": "RX-G",
+      "event_time": "2100-01-01 11:00:00",
+      "available_time": "2100-01-01 11:10:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-ORDER-F01",
+      "source": "PHARMACY",
+      "subject_id": 7001,
+      "hadm_id": 8101,
+      "pharmacy_id": "RX-A",
+      "event_time": "2100-01-01 10:00:00",
+      "available_time": "2100-01-01 10:15:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-ORDER-F02",
+      "source": "PHARMACY",
+      "subject_id": 7001,
+      "hadm_id": 8101,
+      "pharmacy_id": "RX-A",
+      "event_time": "2100-01-01 11:00:00",
+      "available_time": "2100-01-01 11:15:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-ORDER-F03",
+      "source": "PHARMACY",
+      "subject_id": 7001,
+      "hadm_id": 8102,
+      "pharmacy_id": "RX-D",
+      "event_time": "2100-01-01 11:00:00",
+      "available_time": "2100-01-01 11:10:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-ORDER-F04",
+      "source": "PHARMACY",
+      "subject_id": 7002,
+      "hadm_id": 8201,
+      "pharmacy_id": "RX-E",
+      "event_time": "2100-01-01 11:00:00",
+      "available_time": "2100-01-01 12:01:00"
+    }
+  ],
+  "emar": [
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-EMAR-01",
+      "subject_id": 7001,
+      "hadm_id": 8101,
+      "emar_id": "E-A",
+      "emar_seq": 1,
+      "event_time": "2100-01-01 10:00:00",
+      "available_time": "2100-01-01 10:30:00",
+      "status_text": null
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-EMAR-02",
+      "subject_id": 7001,
+      "hadm_id": 8101,
+      "emar_id": "E-B",
+      "emar_seq": 1,
+      "event_time": "2100-01-01 11:00:00",
+      "available_time": "2100-01-01 11:30:00",
+      "status_text": "INVENTED_EVENT_LABEL"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-EMAR-03",
+      "subject_id": 7001,
+      "hadm_id": 8101,
+      "emar_id": "E-C",
+      "emar_seq": 1,
+      "event_time": "2100-01-01 13:00:00",
+      "available_time": "2100-01-01 11:30:00",
+      "status_text": "INVENTED_FUTURE_EVENT"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-EMAR-04",
+      "subject_id": 7001,
+      "hadm_id": 8102,
+      "emar_id": "E-D",
+      "emar_seq": 1,
+      "event_time": "2100-01-01 11:00:00",
+      "available_time": "2100-01-01 11:30:00",
+      "status_text": "INVENTED_EVENT_LABEL"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-EMAR-05",
+      "subject_id": 7002,
+      "hadm_id": 8201,
+      "emar_id": "E-E",
+      "emar_seq": 1,
+      "event_time": "2100-01-01 10:00:00",
+      "available_time": "2100-01-01 12:01:00",
+      "status_text": "INVENTED_EVENT_LABEL"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-EMAR-06",
+      "subject_id": 7001,
+      "hadm_id": 8101,
+      "emar_id": "E-F",
+      "emar_seq": 1,
+      "event_time": "2100-01-01 10:00:00",
+      "available_time": "2100-01-01 10:30:00",
+      "status_text": "INVENTED_EVENT_LABEL"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-EMAR-07",
+      "subject_id": 7001,
+      "hadm_id": 8101,
+      "emar_id": "E-F",
+      "emar_seq": 1,
+      "event_time": "2100-01-01 10:00:00",
+      "available_time": "2100-01-01 10:30:00",
+      "status_text": "INVENTED_EVENT_LABEL"
+    }
+  ],
+  "details": [
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-DETAIL-01",
+      "subject_id": 7001,
+      "emar_id": "E-A",
+      "emar_seq": 1,
+      "event_time": "2100-01-01 10:00:00",
+      "available_time": "2100-01-01 10:35:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-DETAIL-02",
+      "subject_id": 7001,
+      "emar_id": "E-A",
+      "emar_seq": 1,
+      "event_time": "2100-01-01 11:00:00",
+      "available_time": "2100-01-01 11:35:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-DETAIL-03",
+      "subject_id": 7001,
+      "emar_id": "E-B",
+      "emar_seq": 1,
+      "event_time": "2100-01-01 11:00:00",
+      "available_time": "2100-01-01 11:35:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-DETAIL-04",
+      "subject_id": 7001,
+      "emar_id": "E-C",
+      "emar_seq": 1,
+      "event_time": "2100-01-01 13:00:00",
+      "available_time": "2100-01-01 11:35:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-DETAIL-05",
+      "subject_id": 7001,
+      "emar_id": "E-D",
+      "emar_seq": 1,
+      "event_time": "2100-01-01 11:00:00",
+      "available_time": "2100-01-01 11:35:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-DETAIL-06",
+      "subject_id": 7002,
+      "emar_id": "E-E",
+      "emar_seq": 1,
+      "event_time": "2100-01-01 11:00:00",
+      "available_time": "2100-01-01 12:01:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-DETAIL-07",
+      "subject_id": 7001,
+      "emar_id": "E-F",
+      "emar_seq": 1,
+      "event_time": "2100-01-01 10:00:00",
+      "available_time": "2100-01-01 10:35:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-DETAIL-08",
+      "subject_id": null,
+      "emar_id": "E-A",
+      "emar_seq": 1,
+      "event_time": "2100-01-01 10:00:00",
+      "available_time": "2100-01-01 10:35:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-DETAIL-09",
+      "subject_id": 7001,
+      "emar_id": "E-NOT-FOUND",
+      "emar_seq": 1,
+      "event_time": "2100-01-01 10:00:00",
+      "available_time": "2100-01-01 10:35:00"
+    }
+  ]
+}

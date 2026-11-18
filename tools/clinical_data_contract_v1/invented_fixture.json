@@ -1,0 +1,178 @@
+{
+  "scope": "SYNTHETIC",
+  "invented": true,
+  "contract_version": "synthetic-dictionary-event-0.1.0",
+  "as_of": "2100-01-01 12:00:00",
+  "dictionary": [
+    {
+      "scope": "SYNTHETIC",
+      "itemid": 910001,
+      "label": "Invented dictionary concept",
+      "category": "Invented category",
+      "linksto": "inputevents",
+      "unitname": "mg"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "itemid": 910002,
+      "label": "Invented dictionary concept",
+      "category": "Invented category",
+      "linksto": "inputevents",
+      "unitname": "mg"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "itemid": 910002,
+      "label": "Invented dictionary concept",
+      "category": "Invented category",
+      "linksto": "inputevents",
+      "unitname": "mg"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "itemid": 910003,
+      "label": "Invented dictionary concept",
+      "category": "Invented category",
+      "linksto": "chartevents",
+      "unitname": "mg"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "itemid": 910004,
+      "label": "Invented dictionary concept",
+      "category": "Invented category",
+      "linksto": "inputevents",
+      "unitname": null
+    },
+    {
+      "scope": "SYNTHETIC",
+      "itemid": null,
+      "label": "Invented dictionary concept",
+      "category": "Invented category",
+      "linksto": "inputevents",
+      "unitname": "mg"
+    }
+  ],
+  "events": [
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-01",
+      "itemid": 910001,
+      "amountuom": "mg",
+      "statusdescription": "INVENTED_STATUS",
+      "starttime": "2100-01-01 10:00:00",
+      "endtime": "2100-01-01 11:00:00",
+      "storetime": "2100-01-01 11:30:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-02",
+      "itemid": 910002,
+      "amountuom": "mg",
+      "statusdescription": "INVENTED_STATUS",
+      "starttime": "2100-01-01 10:00:00",
+      "endtime": "2100-01-01 11:00:00",
+      "storetime": "2100-01-01 11:30:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-03",
+      "itemid": 919999,
+      "amountuom": "mg",
+      "statusdescription": "INVENTED_STATUS",
+      "starttime": "2100-01-01 10:00:00",
+      "endtime": "2100-01-01 11:00:00",
+      "storetime": "2100-01-01 11:30:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-04",
+      "itemid": null,
+      "amountuom": "mg",
+      "statusdescription": "INVENTED_STATUS",
+      "starttime": "2100-01-01 10:00:00",
+      "endtime": "2100-01-01 11:00:00",
+      "storetime": "2100-01-01 11:30:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-05",
+      "itemid": 910003,
+      "amountuom": "mg",
+      "statusdescription": "INVENTED_STATUS",
+      "starttime": "2100-01-01 10:00:00",
+      "endtime": "2100-01-01 11:00:00",
+      "storetime": "2100-01-01 11:30:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-06",
+      "itemid": 910004,
+      "amountuom": "mg",
+      "statusdescription": "INVENTED_STATUS",
+      "starttime": "2100-01-01 10:00:00",
+      "endtime": "2100-01-01 11:00:00",
+      "storetime": "2100-01-01 11:30:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-07",
+      "itemid": 910001,
+      "amountuom": "g",
+      "statusdescription": "INVENTED_STATUS",
+      "starttime": "2100-01-01 10:00:00",
+      "endtime": "2100-01-01 11:00:00",
+      "storetime": "2100-01-01 11:30:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-08",
+      "itemid": 910001,
+      "amountuom": "mg",
+      "statusdescription": "INVENTED_STATUS",
+      "starttime": "2100-01-01 10:00:00",
+      "endtime": "2100-01-01 11:00:00",
+      "storetime": "2100-01-01 12:00:01"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-09",
+      "itemid": 910001,
+      "amountuom": "mg",
+      "statusdescription": "INVENTED_STATUS",
+      "starttime": "2100-01-01 10:00:00",
+      "endtime": "2100-01-01 09:00:00",
+      "storetime": "2100-01-01 11:30:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-10",
+      "itemid": 910001,
+      "amountuom": "mg",
+      "statusdescription": "INVENTED_STATUS",
+      "starttime": "2100-01-01 10:00:00",
+      "endtime": "2100-01-01 11:00:00",
+      "storetime": null
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-11",
+      "itemid": 910001,
+      "amountuom": "mg",
+      "statusdescription": "INVENTED_STATUS",
+      "starttime": "2100-01-01 10:00:00",
+      "endtime": "2100-01-01 11:00:00",
+      "storetime": "2100-01-01 12:00:00"
+    },
+    {
+      "scope": "SYNTHETIC",
+      "row_id": "INVENTED-12",
+      "itemid": 910001,
+      "amountuom": null,
+      "statusdescription": null,
+      "starttime": "2100-01-01 10:00:00",
+      "endtime": "2100-01-01 11:00:00",
+      "storetime": "2100-01-01 11:30:00"
+    }
+  ]
+}

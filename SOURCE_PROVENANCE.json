@@ -1,0 +1,155 @@
+{
+  "schema": "source-provenance/1",
+  "files": [
+    {
+      "release_path": "tools/clinical_data_contract_v1/contract.py",
+      "source_label": "RxGuard-VancoSafe/tools/clinical_data_contract_v1/contract.py",
+      "sha256": "63aedf568f13cceb495a89518233e96983d118f2e026c8a16701a465a519c653",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "release_path": "tools/clinical_data_contract_v1/contract.sql",
+      "source_label": "RxGuard-VancoSafe/tools/clinical_data_contract_v1/contract.sql",
+      "sha256": "268c6ebb8f628b2aa118947d4f377a15541009fc6d2ef4e77e3455ebd5c4b551",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "release_path": "tools/clinical_data_contract_v1/invented_fixture.json",
+      "source_label": "RxGuard-VancoSafe/tools/clinical_data_contract_v1/invented_fixture.json",
+      "sha256": "977674ca036b8cb717c3a75747c9f386d0e95eb0c8cf7413c6d0d77acb5e2fb5",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "release_path": "tools/clinical_data_contract_v1/test_contract.py",
+      "source_label": "RxGuard-VancoSafe/tools/clinical_data_contract_v1/test_contract.py",
+      "sha256": "cd8469fcc139ce484f5af9e7ef21672da1108b7df0d21c0a96148306e4d7930a",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "release_path": "tools/clinical_data_contract_v1/check_aggregates.R",
+      "source_label": "RxGuard-VancoSafe/tools/clinical_data_contract_v1/check_aggregates.R",
+      "sha256": "1d19d01403984a5c34a1855f3882b9963f1cfe908d4a7d63fe1258d39a046f4a",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "release_path": "tools/clinical_data_contract_v1/run_contract.py",
+      "source_label": "RxGuard-VancoSafe/tools/clinical_data_contract_v1/run_contract.py",
+      "sha256": "ad22e5459e0ef2d06b2573f494f2a23017c6fcf5fdcb8bd617b59afe913270a2",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "release_path": "tools/clinical_data_contract_v1/emar_linkage_v1.py",
+      "source_label": "RxGuard-VancoSafe/tools/clinical_data_contract_v1/emar_linkage_v1.py",
+      "sha256": "a20baffc528e43baefaffec282d41804c9d2d481e1c4fd5dd3c0a1006a4f6c9d",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "release_path": "tools/clinical_data_contract_v1/emar_linkage_v1.sql",
+      "source_label": "RxGuard-VancoSafe/tools/clinical_data_contract_v1/emar_linkage_v1.sql",
+      "sha256": "e2750437eadfa2a1888c03258eae9daf62958078f51cc41f44d5afc8692bd5df",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "release_path": "tools/clinical_data_contract_v1/test_emar_linkage_v1.py",
+      "source_label": "RxGuard-VancoSafe/tools/clinical_data_contract_v1/test_emar_linkage_v1.py",
+      "sha256": "efd22542efafc0c1640d4327fc94aae5579117b598a635a6ff5ee4a1101f5ea7",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "release_path": "tools/clinical_data_contract_v1/run_emar_linkage_v1.py",
+      "source_label": "RxGuard-VancoSafe/tools/clinical_data_contract_v1/run_emar_linkage_v1.py",
+      "sha256": "b3fa04c9edd4c465a901ec7b0ab2a318dfb5efa2b7bcbd16eb33095b2309c885",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "release_path": "tools/clinical_data_contract_v1/admission_medication_coverage_v1.py",
+      "source_label": "RxGuard-VancoSafe/tools/clinical_data_contract_v1/admission_medication_coverage_v1.py",
+      "sha256": "966b46f51728908ea9512f333bf9e7e237709f50cf3c7b1986985eff5f458677",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "release_path": "tools/clinical_data_contract_v1/admission_medication_coverage_v1.sql",
+      "source_label": "RxGuard-VancoSafe/tools/clinical_data_contract_v1/admission_medication_coverage_v1.sql",
+      "sha256": "498cfcd34f480769a5e0f2f0e50e4d6182c1d09664fd775f00f723a9546d7911",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "release_path": "tools/clinical_data_contract_v1/admission_medication_linkage_counts_v1.sql",
+      "source_label": "RxGuard-VancoSafe/tools/clinical_data_contract_v1/admission_medication_linkage_counts_v1.sql",
+      "sha256": "b0a75f88fcd1e151c657a20ad0acfb7bdb78969f002eb302e35263803659a537",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "release_path": "tools/clinical_data_contract_v1/invented_admission_medication_fixture_v1.json",
+      "source_label": "RxGuard-VancoSafe/tools/clinical_data_contract_v1/invented_admission_medication_fixture_v1.json",
+      "sha256": "a234a1841206e5528c06e1d9ec65fbf1055381949e92a2f221e5c27a4308ca2f",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "release_path": "tools/clinical_data_contract_v1/test_admission_medication_coverage_v1.py",
+      "source_label": "RxGuard-VancoSafe/tools/clinical_data_contract_v1/test_admission_medication_coverage_v1.py",
+      "sha256": "727124aa3e7a5c7450b0fdf6002d28ec6fc1f44710498bc2d437a2f681b69f13",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "release_path": "tools/clinical_data_contract_v1/run_admission_medication_coverage_v1.py",
+      "source_label": "RxGuard-VancoSafe/tools/clinical_data_contract_v1/run_admission_medication_coverage_v1.py",
+      "sha256": "236cc01383343084f24b77935bf7ee6e971046d9bd8ade4df6c204a0a44a9924",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "release_path": "tools/creatinine_synthetic_v1/comparison.py",
+      "source_label": "RxGuard-VancoSafe/tools/creatinine_synthetic_v1/comparison.py",
+      "sha256": "6298a4b524b0ece7c51b0b562f29108b4658f2ac0daaa51ea3bf3a093722e151",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "release_path": "tools/creatinine_synthetic_v1/test_comparison.py",
+      "source_label": "RxGuard-VancoSafe/tools/creatinine_synthetic_v1/test_comparison.py",
+      "sha256": "763fe3407210b2c6b9e10cd5a1721cda389da24f362aa7e107cbcb3cdd726ab5",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "release_path": "tools/medication_linkage_synthetic_v1/linkage.py",
+      "source_label": "RxGuard-VancoSafe/tools/medication_linkage_synthetic_v1/linkage.py",
+      "sha256": "e7e164ddc2057f76149239e8dcf66726765e73f7aa1cfa446ef9f1bea517eb7e",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "release_path": "tools/medication_linkage_synthetic_v1/test_linkage.py",
+      "source_label": "RxGuard-VancoSafe/tools/medication_linkage_synthetic_v1/test_linkage.py",
+      "sha256": "69ba75732f6be97690fdd1244cea6ede49a2daa743f8301b141b49984296233d",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "release_path": "tools/parallel_readiness_v1/check_integration.py",
+      "source_label": "RxGuard-VancoSafe/tools/parallel_readiness_v1/check_integration.py",
+      "sha256": "831d30b0c9e54a4e760afa81a53bfe170e3ccb51de1c821d958f585de6e54b91",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "release_path": "tools/parallel_readiness_v1/test_integration.py",
+      "source_label": "RxGuard-VancoSafe/tools/parallel_readiness_v1/test_integration.py",
+      "sha256": "6b58ab2127635a49a51d03749d36456db88feea50eca39e4d3080566d60aa1bd",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "release_path": "tools/evidence_trace_synthetic_v1/trace.py",
+      "source_label": "RxGuard-VancoSafe/tools/evidence_trace_synthetic_v1/trace.py",
+      "sha256": "68325246254829260fabee08ff449822ff200a22647fea408237a3b5ea124a3c",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "release_path": "tools/evidence_trace_synthetic_v1/test_trace.py",
+      "source_label": "RxGuard-VancoSafe/tools/evidence_trace_synthetic_v1/test_trace.py",
+      "sha256": "dc6914825fe5749523257dea8556b52abe0d38392ddac534a58c95e9223a2fbb",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "release_path": "02_code/validation/aggregate_qc_medication_v1.sql",
+      "source_label": "RxGuard-VancoSafe/02_code/validation/aggregate_qc_medication_v1.sql",
+      "sha256": "b85a3239f20bb7c8d12b0166ba874927046d7b7ede577872a208a6065ca8a010",
+      "changes": "None; byte-preserved"
+    }
+  ]
+}

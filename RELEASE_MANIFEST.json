@@ -1,0 +1,230 @@
+{
+  "schema": "positive-release-manifest/1",
+  "project": "rxguard-synthetic-data-contracts",
+  "scope": "original software and invented examples only",
+  "self_policy": "RELEASE_MANIFEST.json is explicitly permitted but excluded from its own hashes",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 8,
+      "sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da",
+      "git_blob": "fa1385d99a319b43c06f5309d1aae9fdd3adea46"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 128,
+      "sha256": "91030705936668b501b9696005503cd2e905920f9370ec80aa6af617982a1508",
+      "git_blob": "7f6e546392bcf8f79c75f092e38eb479a27690fd"
+    },
+    {
+      "path": "02_code/validation/aggregate_qc_medication_v1.sql",
+      "bytes": 712,
+      "sha256": "b85a3239f20bb7c8d12b0166ba874927046d7b7ede577872a208a6065ca8a010",
+      "git_blob": "410b49a9c81a7f9f337a204e11cb706d7dd43e98"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 400,
+      "sha256": "f818bae6ffcf792cc447f49547fc984aa3e30fcd3c26de72c47d227a7b79ab7d",
+      "git_blob": "fc06364371c573d256a506d07d475d130258bcd7"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 347,
+      "sha256": "39cd490e4e7e1f94bfee4325fa95145c2862e81ca295cef60e193c0db26e1e85",
+      "git_blob": "ea2b64a137d1a759dbc89430ac054be0c548295e"
+    },
+    {
+      "path": "DATA_AVAILABILITY.md",
+      "bytes": 1044,
+      "sha256": "68cd39277b031cba473c9d016f22a80d6f6227099819d7d894bd4e1ba88cff43",
+      "git_blob": "2125d5ea037893756862f37c3c4309c8eb3d391e"
+    },
+    {
+      "path": "docs/PROVENANCE.md",
+      "bytes": 1075,
+      "sha256": "d34958ec80e708fe49f7e550a8ce006f57b66c5698f86319fac4650353b1619f",
+      "git_blob": "04b7fa695b848616174f7c3def193cb04ab28608"
+    },
+    {
+      "path": "docs/VERIFICATION.md",
+      "bytes": 1047,
+      "sha256": "27e065452210f56af6cf60f625758526bfea6f48db257edcdac4c533d8ed1b83",
+      "git_blob": "d113630a4cfaf4ec035a720c1ed9dd05cce4c2b9"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1069,
+      "sha256": "45b142350a72daabdf5f8129bafc6ca2ac31d0ef515bcb77afec31a340eed665",
+      "git_blob": "0fe692c22972802891b34defffd352c2e7f16473"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4757,
+      "sha256": "71c278b5c826c711a2929f3202d1537d17c0403411dd82b17b994dc25f55b933",
+      "git_blob": "4adb3152e89fee0bbe972a08ac90e4f113993dd6"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 14,
+      "sha256": "afa5bd1cbd0d0be1318c3e8992b31f1deae587e80425877fc7dee2fee0d1572f",
+      "git_blob": "98e9d0c97c82bda44ba52c760bd21600b3f1fcd7"
+    },
+    {
+      "path": "run_tests.py",
+      "bytes": 941,
+      "sha256": "48ad1e842624fbe61e53c0c34e00d9542b8b6cdbe27e2114b785f90ffa72bfbb",
+      "git_blob": "049efef9a4e79fdaa09a3d4883d49a5e2645c5aa"
+    },
+    {
+      "path": "SOURCE_PROVENANCE.json",
+      "bytes": 7928,
+      "sha256": "4cd8b560be6d657e05f739a65880304ac99b9b20879bd115835e5ad0d4f21b4a",
+      "git_blob": "2f3e5f30f98b504b4c91f392205748c94ca66067"
+    },
+    {
+      "path": "tools/clinical_data_contract_v1/admission_medication_coverage_v1.py",
+      "bytes": 12711,
+      "sha256": "966b46f51728908ea9512f333bf9e7e237709f50cf3c7b1986985eff5f458677",
+      "git_blob": "a2dd56926ac211e8b078e339676677e17308ced5"
+    },
+    {
+      "path": "tools/clinical_data_contract_v1/admission_medication_coverage_v1.sql",
+      "bytes": 4127,
+      "sha256": "498cfcd34f480769a5e0f2f0e50e4d6182c1d09664fd775f00f723a9546d7911",
+      "git_blob": "ad86aecd21e7d27c008ccf30f615232071f50330"
+    },
+    {
+      "path": "tools/clinical_data_contract_v1/admission_medication_linkage_counts_v1.sql",
+      "bytes": 1515,
+      "sha256": "b0a75f88fcd1e151c657a20ad0acfb7bdb78969f002eb302e35263803659a537",
+      "git_blob": "1165d825c90cc10f205d221e7965f8e64d7b3f5a"
+    },
+    {
+      "path": "tools/clinical_data_contract_v1/check_aggregates.R",
+      "bytes": 3076,
+      "sha256": "1d19d01403984a5c34a1855f3882b9963f1cfe908d4a7d63fe1258d39a046f4a",
+      "git_blob": "37571d74925431dacb567144f181bde418fb60cf"
+    },
+    {
+      "path": "tools/clinical_data_contract_v1/contract.py",
+      "bytes": 4575,
+      "sha256": "63aedf568f13cceb495a89518233e96983d118f2e026c8a16701a465a519c653",
+      "git_blob": "6e0f05e33d761d6f1e6d8713249ff4c67c0cc552"
+    },
+    {
+      "path": "tools/clinical_data_contract_v1/contract.sql",
+      "bytes": 1414,
+      "sha256": "268c6ebb8f628b2aa118947d4f377a15541009fc6d2ef4e77e3455ebd5c4b551",
+      "git_blob": "403122053f407bb96a9bf2238f50b51a724814aa"
+    },
+    {
+      "path": "tools/clinical_data_contract_v1/emar_linkage_v1.py",
+      "bytes": 2784,
+      "sha256": "a20baffc528e43baefaffec282d41804c9d2d481e1c4fd5dd3c0a1006a4f6c9d",
+      "git_blob": "ab6915594c29c71331c12bdfef069724e554f12b"
+    },
+    {
+      "path": "tools/clinical_data_contract_v1/emar_linkage_v1.sql",
+      "bytes": 2162,
+      "sha256": "e2750437eadfa2a1888c03258eae9daf62958078f51cc41f44d5afc8692bd5df",
+      "git_blob": "a73842d8c6241498050c57429b5c13a244454f1a"
+    },
+    {
+      "path": "tools/clinical_data_contract_v1/invented_admission_medication_fixture_v1.json",
+      "bytes": 8233,
+      "sha256": "a234a1841206e5528c06e1d9ec65fbf1055381949e92a2f221e5c27a4308ca2f",
+      "git_blob": "ae99bc681eba9df6e86381362b1affdbf698d1d4"
+    },
+    {
+      "path": "tools/clinical_data_contract_v1/invented_fixture.json",
+      "bytes": 5030,
+      "sha256": "977674ca036b8cb717c3a75747c9f386d0e95eb0c8cf7413c6d0d77acb5e2fb5",
+      "git_blob": "bc9ab00cd1aeee25b1a3a8eabd888e5d40f15771"
+    },
+    {
+      "path": "tools/clinical_data_contract_v1/run_admission_medication_coverage_v1.py",
+      "bytes": 3039,
+      "sha256": "236cc01383343084f24b77935bf7ee6e971046d9bd8ade4df6c204a0a44a9924",
+      "git_blob": "1645838b72bc9f4367a863bc690481df58ccf599"
+    },
+    {
+      "path": "tools/clinical_data_contract_v1/run_contract.py",
+      "bytes": 3370,
+      "sha256": "ad22e5459e0ef2d06b2573f494f2a23017c6fcf5fdcb8bd617b59afe913270a2",
+      "git_blob": "2a70a868eb93d4c09311b8e16a09c35cd0da667b"
+    },
+    {
+      "path": "tools/clinical_data_contract_v1/run_emar_linkage_v1.py",
+      "bytes": 1783,
+      "sha256": "b3fa04c9edd4c465a901ec7b0ab2a318dfb5efa2b7bcbd16eb33095b2309c885",
+      "git_blob": "06579d54f68f1646d6f5c084b7bc78cb7d745d40"
+    },
+    {
+      "path": "tools/clinical_data_contract_v1/test_admission_medication_coverage_v1.py",
+      "bytes": 8850,
+      "sha256": "727124aa3e7a5c7450b0fdf6002d28ec6fc1f44710498bc2d437a2f681b69f13",
+      "git_blob": "41b8807572391db763fd55b818faf59535fdaeec"
+    },
+    {
+      "path": "tools/clinical_data_contract_v1/test_contract.py",
+      "bytes": 3318,
+      "sha256": "cd8469fcc139ce484f5af9e7ef21672da1108b7df0d21c0a96148306e4d7930a",
+      "git_blob": "a7d7221a720639fa40697a6b4d238371bcbc65e7"
+    },
+    {
+      "path": "tools/clinical_data_contract_v1/test_emar_linkage_v1.py",
+      "bytes": 2531,
+      "sha256": "efd22542efafc0c1640d4327fc94aae5579117b598a635a6ff5ee4a1101f5ea7",
+      "git_blob": "8146e93a3692fef6b6ff9ebf68a93c2af4797330"
+    },
+    {
+      "path": "tools/creatinine_synthetic_v1/comparison.py",
+      "bytes": 1478,
+      "sha256": "6298a4b524b0ece7c51b0b562f29108b4658f2ac0daaa51ea3bf3a093722e151",
+      "git_blob": "8a75ad57a894eb43143a4c8d36cdc77833e8b187"
+    },
+    {
+      "path": "tools/creatinine_synthetic_v1/test_comparison.py",
+      "bytes": 1832,
+      "sha256": "763fe3407210b2c6b9e10cd5a1721cda389da24f362aa7e107cbcb3cdd726ab5",
+      "git_blob": "683154173b2a8b736b0a843af9e1de3e56c94c97"
+    },
+    {
+      "path": "tools/evidence_trace_synthetic_v1/test_trace.py",
+      "bytes": 1999,
+      "sha256": "dc6914825fe5749523257dea8556b52abe0d38392ddac534a58c95e9223a2fbb",
+      "git_blob": "124bc9938f0b304607f4a68e9dc9a8a449eb8c4d"
+    },
+    {
+      "path": "tools/evidence_trace_synthetic_v1/trace.py",
+      "bytes": 1459,
+      "sha256": "68325246254829260fabee08ff449822ff200a22647fea408237a3b5ea124a3c",
+      "git_blob": "020a18a9ebc07cfb08767bdb755ef772dcfdcc3d"
+    },
+    {
+      "path": "tools/medication_linkage_synthetic_v1/linkage.py",
+      "bytes": 4245,
+      "sha256": "e7e164ddc2057f76149239e8dcf66726765e73f7aa1cfa446ef9f1bea517eb7e",
+      "git_blob": "a9e82056c6fcee876d4e75bdbd871ccc7a6755aa"
+    },
+    {
+      "path": "tools/medication_linkage_synthetic_v1/test_linkage.py",
+      "bytes": 3441,
+      "sha256": "69ba75732f6be97690fdd1244cea6ede49a2daa743f8301b141b49984296233d",
+      "git_blob": "0b4b1c0f3a5b6c4e756c159258f123638f79aac7"
+    },
+    {
+      "path": "tools/parallel_readiness_v1/check_integration.py",
+      "bytes": 5376,
+      "sha256": "831d30b0c9e54a4e760afa81a53bfe170e3ccb51de1c821d958f585de6e54b91",
+      "git_blob": "534d901c82485d2a0df66d8e3197cb5088bf493c"
+    },
+    {
+      "path": "tools/parallel_readiness_v1/test_integration.py",
+      "bytes": 3941,
+      "sha256": "6b58ab2127635a49a51d03749d36456db88feea50eca39e4d3080566d60aa1bd",
+      "git_blob": "1268800a0731f3ea4dc33b2fa851b32c97624053"
+    }
+  ]
+}
